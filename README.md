@@ -45,8 +45,8 @@ This configuration creates:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/windows-ec2-terraform.git
-cd windows-ec2-terraform
+git clone https://github.com/RimDammak/ec2-quick-launch.git
+cd ec2-quick-launch
 ````
 
 ### 2. Create a `terraform.tfvars` file
