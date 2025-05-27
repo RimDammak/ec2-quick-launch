@@ -1,0 +1,5 @@
+aws_access_key   = "xxxxxxxxxxx"
+aws_secret_key   = "xxxxxxxxxxxxxxxxxxx"
+imported_ami_id  = "ami-xxxxxxxxx"  # AMI ID of the imported OVA or a base AMI for testing
+key_name         = "ec2-keypair-xxxx"
+aws_region       = "us-east-1"
