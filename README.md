@@ -1,5 +1,4 @@
 
-````markdown
 # Quick EC2 Instance Deployment via Terraform (WIP)
 
 This Terraform project sets up a minimal AWS infrastructure to deploy a **EC2 instance using a provided AMI ID**.
@@ -120,4 +119,3 @@ This example **allows RDP (TCP port 3389) access from anywhere (0.0.0.0/0)**.
 **Do not use this setting in production.** Restrict access to a known IP range.
 
 ---
-````
