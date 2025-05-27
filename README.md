@@ -5,10 +5,10 @@ This Terraform project sets up a minimal AWS infrastructure to deploy a **EC2 in
 
 ---
 
-## 🔧 Project Purpose
+## Project Purpose
 
 > **Main Goal:**  
-> To launch a EC2 instance using a specific AMI ID (e.g., an imported Windows Server 2019 AMI).  
+> To launch a EC2 instance using a specific AMI ID (e.g., an imported Windows Server 2019 AMI/ your own ami image).  
 >  
 > The infrastructure is minimal and designed to help you quickly test or deploy an imported VM in AWS.
 
